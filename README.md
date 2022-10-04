@@ -8,6 +8,8 @@ Date: 1888
 The original text that this dictionary was compiled from is found here: 
 https://www.gutenberg.org/ebooks/10625
 
+There are three required files: middle_english_dictionary.dict, middle_english_dictionary.idx, middle_english_dictionary.ifo
+The file "middle english dictionary.tab" is the tab-delineated file that contains the raw data
 
 NOTE.--The abbreviations referring to the authorities for the forms of
 English words (AD. 1150-1580) are printed in italics. (CP = Clarendon
